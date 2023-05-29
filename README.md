@@ -1,14 +1,14 @@
 # Анализ базы данных резюме с Head Hunter
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/Project-2_HeadHunter.git/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Описание-проекта)
 
-[2. Этапы проекта](https://github.com/dariazvonareva/Project-2_HeadHunter.git/README.md#Какой-кейс-решаем)
+[2. Этапы проекта](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Этапы-проекта)
 
-[3. Результаты](https://github.com/dariazvonareva/Project-2_HeadHunter.git/README.md#Результаты)
+[3. Результаты](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Результаты)
 ### Описание проекта
 Cоздание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist.
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-2_HeadHunter.git/README.md#Оглавление )
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Оглавление )
 ### Этапы проекта
 1. Знакомство с данными
 2. Предварительный анализ данных
@@ -17,7 +17,7 @@ Cоздание модели машинного обучения, которая
 5. предметный анализ
 **Условия соревнования:**
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/dariazvonareva/Project-2_HeadHunter.git/README.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Требования-к-оформлению-ноутбука).
 
 **Требования к оформлению ноутбука**
 - Решение оформляется только в Jupyter Notebook.
@@ -30,5 +30,5 @@ Cоздание модели машинного обучения, которая
 **Что практикуем**
 работу с базами данных и выполнение SQL-запросов средствами Python
 ### Результаты:
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project-2_HeadHunter.git/Project_2_HeadHunter_df.ipynb)
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-2_HeadHunter.git/README.md#Оглавление)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Оглавление)
